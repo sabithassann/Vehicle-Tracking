@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "18145118320",
+    "firebase_url": "https://nexchain-6faaf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nexchain-6faaf",
+    "storage_bucket": "nexchain-6faaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18145118320:android:d3c480ee5bd5a7a0caccb5",
+        "android_client_info": {
+          "package_name": "com.example.gmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzaAW4L8eGZZFbyuBrFJ6q78ZIgeyU708"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
